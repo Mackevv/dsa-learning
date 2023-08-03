@@ -5,7 +5,7 @@
 
 void enqueue(int item);
 int dequeue();
-void print_queue();
+void print_queue(int *queue);
 
 int queue[SIZE];
 int front = -1, rear = -1;
