@@ -25,12 +25,12 @@ Here is the list of all data structures and algorithms this repository will cont
 
 ### Tree DSA (1)
 
-- [ ]  Tree
-- [ ]  Binary Tree
-- [ ]  Full Binary Tree
-- [ ]  Perfect Binary Tree
-- [ ]  Complete Binary Tree
-- [ ]  Balanced Binary Tree
+- [x]  Tree
+- [x]  Binary Tree
+- [x]  Full Binary Tree
+- [x]  Perfect Binary Tree
+- [x]  Complete Binary Tree
+- [x]  Balanced Binary Tree
 - [ ]  Binary Search Tree
 - [ ]  AVL Tree
 
