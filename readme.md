@@ -31,6 +31,7 @@ Here is the list of all data structures and algorithms this repository will cont
 - [ ]  Perfect Binary Tree
 - [ ]  Complete Binary Tree
 - [ ]  Balanced Binary Tree
+- [ ]  Binary Search Tree
 - [ ]  AVL Tree
 
 ### Tree DSA (2)
