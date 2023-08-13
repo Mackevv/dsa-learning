@@ -1,7 +1,8 @@
 # DSA (Data structures & Algorithms) Learning
 
-This repository contains multiple implementations of data structures and algorithms in C (and maybe in OCaml in the future).<br>
-This repository acts as a record of my progression in case I need to reference it and could be useful for anyone who wants to learn data structures and algorithms.
+This repository contains multiple implementations of data structures and algorithms in C (and potentially in OCaml in the future). It serves as a record of my progress, in case I need to reference it, and could be useful for anyone interested in learning data structures and algorithms.
+
+For each data structure or algorithm, you will find a list of three LeetCode exercises (Easy-Medium-Hard) and one exercise that demonstrates a real use case of this data structure/algorithm. Please note that these exercises were generated with ChatGPT; hence, some of them might not be relevant.
 
 ## DSA roadmap
 
