@@ -10,7 +10,9 @@
 ## Actual application exercise
 
 <u>Title:</u> File System Structure<br>
-<u>Statement:</u> Design a tree-based file system structure where each node represents a directory and can contain multiple files or sub-directories. Implement functions to add new files/directories, delete files/directories, and traverse the file system.
+<u>Statement:</u> Design a tree-based file system structure where each node represents a directory and can contain multiple files or sub-directories. Implement functions to add new files/directories, and traverse the file system.
+
+Correction of this exercise in `fs_tree.c` file
 
 # Binary tree
 ## LeetCode 
