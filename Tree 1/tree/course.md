@@ -213,11 +213,11 @@ Generated tree :
 ```
 Generated tree :
 
-        9
-      /   \
-    2       7
-  /  \     /
-  3    5   6  
+          9
+        /   \
+      2       7
+    /  \     /
+   3    5   6  
 ```
 
 4. Keep repeating until you reach the last element.
@@ -259,13 +259,13 @@ int is_complete(Node *root, int index, int numberNodes) {
 }
 ```
 
-### Balanced binary tree
+### 2.4 Balanced binary tree
 
 A balanced binary tree (also known as heigh-balanced binary tree) is a binary tree in which the height of the left and the right subtree of any node differ by not more than 1.
 
 ![balanced binary tree](./assets/balanced-binary-tree.png)
 
-#### C code to check whether a binary tree is balanced
+#### 2.4.1 C code to check whether a binary tree is balanced
 
 ```c
 int is_balanced(Node *root, int *height) {
