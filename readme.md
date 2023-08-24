@@ -21,7 +21,7 @@ Here is the list of all data structures and algorithms this repository will cont
 - [x]  Linked List
 - [x]  Hash Table
 - [x]  Heap
-- [ ]  Fibonacci Heap
+- [x]  Fibonacci Heap
 
 ### Tree DSA (1)
 
