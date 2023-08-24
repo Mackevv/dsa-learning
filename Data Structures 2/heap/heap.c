@@ -10,7 +10,7 @@ void delete(int array[], int *size, int data);
 
 int main(int *argc, char *argv[])
 {
-  int array[10];
+  int array[15];
   int size = 0;
 
   insert(array, &size, 9);
@@ -28,7 +28,15 @@ int main(int *argc, char *argv[])
 
   for (int i = 0; i < size; i++) {
     printf("%d, ", array[i]);
-  } 
+  }
+  printf("\n\n");
+
+  delete(array, &size, 21);
+  delete(array, &size, 18);
+
+  for (int i = 0; i < size; i++) {
+    printf("%d, ", array[i]);
+  }
 
   return 0;
 }
@@ -59,14 +67,14 @@ void heapify(int array[], int size, int index)
 
 void build_max_heap(int array[], int size)
 {
-  for (int i = floor(size/2) + 1; i >= 0; i--) {
+  for (int i = floor(size/2); i >= 0; i--) {
     heapify(array, size, i);
   }
 }
 
 void insert(int array[], int *size, int data)
 {
-  if (size == 0) {
+  if (*size == 0) {
     array[0] = data;
     (*size)++;
   } else {
