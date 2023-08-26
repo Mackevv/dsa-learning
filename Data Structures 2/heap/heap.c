@@ -54,9 +54,11 @@ void heapify(int array[], int size, int index)
   int right = 2 * index + 2;
   int max = index;
 
+  // Compare parent with left child
   if (left < size && array[left] > array[index])
     max = left;
-  if (right < size && array[right] > array[index])
+  // Compare left child with right child
+  if (right < size && array[right] > array[max])
     max = right;
 
   if (max != index) {
