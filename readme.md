@@ -13,7 +13,7 @@ Here is the list of all data structures and algorithms this repository will cont
 - [x]  Stack
 - [x]  Queue
 - [x]  Circular queue
-- [ ]  Priority queue
+- [x]  Priority queue
 - [x]  Deque
 
 ### Data Structures (2)
