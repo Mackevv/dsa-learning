@@ -38,7 +38,7 @@ Here is the list of all data structures and algorithms this repository will cont
 
 - [ ]  B Tree
 - [ ]  B+ Tree
-- [ ]  Red Black Tree
+- [x]  Red Black Tree
 
 ### Graph Algorithms
 
