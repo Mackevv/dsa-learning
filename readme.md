@@ -47,7 +47,7 @@ Here is the list of all data structures and algorithms this repository will cont
 - [ ]  Strongly Connected Components
 - [x]  Adjacency Matrix
 - [x]  Adjacency List
-- [ ]  DFS Algorithm
+- [x]  DFS Algorithm
 - [ ]  Breadth-first Search
 - [ ]  Bellman Ford's Algorithm
 
