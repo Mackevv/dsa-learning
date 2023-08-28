@@ -42,11 +42,11 @@ Here is the list of all data structures and algorithms this repository will cont
 
 ### Graph Algorithms
 
-- [ ]  Graph
-- [ ]  Spanning Tree
+- [x]  Graph
+- [x]  Spanning Tree
 - [ ]  Strongly Connected Components
-- [ ]  Adjacency Matrix
-- [ ]  Adjacency List
+- [x]  Adjacency Matrix
+- [x]  Adjacency List
 - [ ]  DFS Algorithm
 - [ ]  Breadth-first Search
 - [ ]  Bellman Ford's Algorithm
