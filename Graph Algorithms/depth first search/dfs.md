@@ -2,7 +2,7 @@
 
 <div>
   <span style="color: green">Easy</span> : <a href="https://leetcode.com/problems/max-area-of-island/">Max Area of Island</a><br>
-  <span style="color: #FFAE42">Medium</span> : <a href="s://leetcode.com/problems/number-of-islands-ii/">Number of Islands II</a><br>
+  <span style="color: #FFAE42">Medium</span> : <a href="https://leetcode.com/problems/number-of-islands-ii/">Number of Islands II</a><br>
   <span style="color: red">Hard</span> : <a href="https://leetcode.com/problems/word-search-ii/">Word Search II</a><br>
 </div>
 
