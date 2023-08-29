@@ -70,7 +70,7 @@ void print_stack(Stack *stack)
 
 int main(int argc, char *argv[])
 {
-  Stack *stack = createStack(10);
+  Stack *stack = create_stack(10);
 
   push(stack, 1);
   push(stack, 2);
