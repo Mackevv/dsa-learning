@@ -44,7 +44,7 @@ Here is the list of all data structures and algorithms this repository will cont
 
 - [x]  Graph
 - [x]  Spanning Tree
-- [ ]  Strongly Connected Components
+- [x]  Strongly Connected Components
 - [x]  Adjacency Matrix
 - [x]  Adjacency List
 - [x]  DFS Algorithm
