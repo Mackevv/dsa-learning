@@ -49,7 +49,7 @@ Here is the list of all data structures and algorithms this repository will cont
 - [x]  Adjacency List
 - [x]  DFS Algorithm
 - [x]  Breadth-first Search
-- [ ]  Bellman Ford's Algorithm
+- [x]  Bellman Ford's Algorithm
 
 ### Searching and Sorting Algorithms
 
