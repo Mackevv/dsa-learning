@@ -122,7 +122,7 @@ void print_linked_list(Node *node) {
   printf("\n\n");
 }
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   Node *head = NULL;
 

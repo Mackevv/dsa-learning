@@ -66,7 +66,7 @@ void postorder_traversal(Node *root);
 // Tree traversal - Breadth-first
 void levelorder_traversal(Node *root);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   Node *root = create_node(1);
   int height = 0;

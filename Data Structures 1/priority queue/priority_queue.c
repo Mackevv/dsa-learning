@@ -14,7 +14,7 @@ void enqueue(PriorityQueue *pqueue, int key);
 int dequeue(PriorityQueue *pqueue);
 void update_priority(PriorityQueue *pqueue, int key, int newKey);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   PriorityQueue *pq = create_pqueue(10);
   enqueue(pq, 3); 

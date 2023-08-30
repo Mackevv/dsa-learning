@@ -22,7 +22,7 @@ Node *right_rotate(Node *node);
 Node *insert(Node *node, int key);
 Node *delete(Node *root, int key);
 
-int main(int *argc, char *arvg[])
+int main(int argc, char *arvg[])
 {
   Node *root = NULL;
 

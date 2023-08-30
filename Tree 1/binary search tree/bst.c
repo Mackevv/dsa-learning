@@ -15,7 +15,7 @@ TreeNode *search(TreeNode *root, int key);
 TreeNode *min_value_node(TreeNode *node);
 TreeNode *delete(TreeNode *root, int key);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   TreeNode *root = NULL;
 

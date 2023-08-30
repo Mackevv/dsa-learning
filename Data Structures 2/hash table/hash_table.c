@@ -17,7 +17,7 @@ void delete(HashTable *ht, const char *key);
 void clean(HashTable *ht);
 void display(HashTable *ht);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   HashTable *ht = (HashTable*)malloc(sizeof(HashTable));
   init(ht);

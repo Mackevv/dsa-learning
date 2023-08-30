@@ -31,7 +31,7 @@ Node *search(RedBlackTree *tree, int key);
 void inorder(Node *root);
 char nodeColor(Node *node);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   RedBlackTree *tree = create_rb_tree();
 

@@ -45,7 +45,7 @@ void decrease_key(FibonacciHeap *fh, Node *node, int key);
 Node *delete(FibonacciHeap *fh, Node *node);
 void print_heap(Node *node);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   FibonacciHeap *FH = make_heap();
 

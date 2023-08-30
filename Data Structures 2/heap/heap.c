@@ -8,7 +8,7 @@ void build_max_heap(int array[], int size);
 void insert(int array[], int *size, int data);
 void delete(int array[], int *size, int data);
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   int array[15];
   int size = 0;

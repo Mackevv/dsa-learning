@@ -18,7 +18,7 @@ int delete_rear(Deque *deque);
 void print_deque(Deque *deque);
 
 
-int main(int *argc, char *argv[])
+int main(int argc, char *argv[])
 {
   Deque *myDeque = init_deque(5);
 
