@@ -70,7 +70,7 @@ Here is the list of all data structures and algorithms this repository will cont
 
 - [x]  Greedy Algorithm
 - [x]  Ford-Fulkerson Algorithm
-- [ ]  Dijkstra's Algorithm
+- [x]  Dijkstra's Algorithm
 - [ ]  Kruskal's Algorithm
 - [ ]  Prim's Algorithm
 - [ ]  Huffman Code
