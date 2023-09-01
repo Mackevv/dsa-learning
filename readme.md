@@ -68,8 +68,8 @@ Here is the list of all data structures and algorithms this repository will cont
 
 ### Greedy Algorithms
 
-- [ ]  Greedy Algorithm
-- [ ]  Ford-Fulkerson Algorithm
+- [x]  Greedy Algorithm
+- [x]  Ford-Fulkerson Algorithm
 - [ ]  Dijkstra's Algorithm
 - [ ]  Kruskal's Algorithm
 - [ ]  Prim's Algorithm
