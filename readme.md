@@ -53,18 +53,18 @@ Here is the list of all data structures and algorithms this repository will cont
 
 ### Searching and Sorting Algorithms
 
-- [ ]  Bubble Sort
-- [ ]  Selection Sort
-- [ ]  Insertion Sort
-- [ ]  Merge Sort
-- [ ]  Quick Sort
-- [ ]  Counting Sort
-- [ ]  Radix Sort
-- [ ]  Bucket Sort
-- [ ]  Heap Sort
-- [ ]  Shell Sort
-- [ ]  Linear Search
-- [ ]  Binary Search
+- [x]  Bubble Sort
+- [x]  Selection Sort
+- [x]  Insertion Sort
+- [x]  Merge Sort
+- [x]  Quick Sort
+- [x]  Counting Sort
+- [x]  Radix Sort
+- [x]  Bucket Sort
+- [x]  Heap Sort
+- [x]  Shell Sort
+- [x]  Linear Search
+- [x]  Binary Search
 
 ### Greedy Algorithms
 
