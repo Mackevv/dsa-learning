@@ -71,9 +71,9 @@ Here is the list of all data structures and algorithms this repository will cont
 - [x]  Greedy Algorithm
 - [x]  Ford-Fulkerson Algorithm
 - [x]  Dijkstra's Algorithm
-- [ ]  Kruskal's Algorithm
-- [ ]  Prim's Algorithm
-- [ ]  Huffman Code
+- [x]  Kruskal's Algorithm
+- [x]  Prim's Algorithm
+- [x]  Huffman Code
 
 ### Dynamic Programming (DP)
 
