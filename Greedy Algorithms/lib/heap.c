@@ -82,3 +82,23 @@ int extract_min(Heap *heap)
 
   return root;
 }
+
+void decrease_key(Heap *heap, int key, int newKey)
+{
+  int i;
+  for (i = 0; i < heap->size; i++) {
+    if (heap->items[i] == key) break;
+  }
+
+  if (i == heap->size)
+    return;
+
+  if (newKey > key)
+    return;
+
+  heap->items[i] = newKey;
+  while (i != 0 && heap->items[i] < heap->items[parent(i)]) {
+    swap(&heap->items[i], &heap->items[parent(i)]);
+    i = parent(i);
+  }
+}

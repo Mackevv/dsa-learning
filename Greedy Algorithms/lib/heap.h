@@ -14,5 +14,6 @@ void min_heapify(Heap *heap, int i);
 void insert_key(Heap *heap, int key);
 int extract_min(Heap *heap);
 void build_min_heap(Heap *heap);
+void decrease_key(Heap *heap, int key, int newKey);
 
 #endif
