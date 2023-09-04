@@ -77,8 +77,8 @@ Here is the list of all data structures and algorithms this repository will cont
 
 ### Dynamic Programming (DP)
 
-- [ ]  DP
-- [ ]  Floyd Marshall Algorithm
+- [x]  DP
+- [x]  Floyd Marshall Algorithm
 - [ ]  Longest Common Subsequence
 
 ### Others
